@@ -8,6 +8,8 @@ target/
 *.o
 *.rmeta
 *.log
+*.mov
+*.bin
 
 # 忽略 Sass 缓存文件
 *.scss
